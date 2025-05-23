@@ -1,3 +1,6 @@
+NAME: MUOJINDU OLISAEMEKA CYPRIAN
+MAT NO: VUG/CSC/22/7130
+
 # Cloud-Storage-Comparison.
 Cloud-Storage-Comparison is a GitHub repository that analyzes and compares leading cloud storage platforms (e.g., AWS S3, Google Cloud Storage, Azure Blob Storage) by evaluating performance metrics, pricing tiers, security protocols, and scalability features.
 
@@ -94,3 +97,5 @@ Choosing the right cloud storage provider depends on an organization's specific 
 
 
 LINK TO MY VIDEO::: https://youtu.be/cAaYalvqOrw?si=-Iw_416bgfWhWHzN
+
+
